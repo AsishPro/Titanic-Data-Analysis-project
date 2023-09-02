@@ -1,3 +1,3 @@
 ## Titanic-Data-Analysis-project
 
-[Some title here](DA_Titanic.pptx.pdf)
+[info](DA_Titanic.pptx.pdf)
